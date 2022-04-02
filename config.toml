@@ -4,9 +4,9 @@ defaultContentLanguage = "zh-cn"
 # 网站语言，仅在这里 CN 大写
 languageCode = "zh-CN"
 # 是否包括中日韩文字
-hasCJKLanguage = true
+hasCJKLanguage = flase
 # 网站标题
-title = "下界合金碗's Blog"
+title = "Netherite_Bowl's blog"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "FixIt"
@@ -43,15 +43,6 @@ theme = "FixIt"
     url = "/categories/"
     title = ""
     weight = 3
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "留言"
-    url = "/404哈哈哈/"
-    title = ""
-    weight = 4
-
 # Hugo 解析文档的配置
 [markup]
   # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
