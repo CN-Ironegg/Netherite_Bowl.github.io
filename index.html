@@ -62,7 +62,30 @@
   <div id="search-dropdown-mobile"></div>
 </div>
 <main class="container" page-style="normal"><div class="page home" posts><div class="home-profile"></div>
-</div></main><footer class="footer">
+<article class="single summary" itemscope itemtype="http://schema.org/Article"><h1 class="single-title" itemprop="name headline">
+    <a href="/posts/pass-recaptcha-cn/">如何优雅且合法的通过国际版reCAPTCHA验证</a>
+  </h1><div class="post-meta"><span class="post-author"><a
+  href="/"
+  
+    title="Author"
+  
+  
+  
+    rel=" author"
+  
+  
+  
+    class="author"
+  
+  
+><i class="fas fa-user-circle fa-fw"></i>作者</a></span>&nbsp;<span class="post-publish" title='2022-04-02 08:47:11'>发布于 <time datetime="2022-04-02">2022-04-02</time></span></div><div class="content">:fa-globe: 优雅且合法的通过reCAPTCHA验证 前言 为了防止机器人攻击，类似于Mcpedl的部分下载链接，麦块官网的购买链接还有各种大大小小的论坛和博客，都使用了该验证码。国际版reCaptcha 对于国外用户算是比较友好，但是在国内无法访问，給小白带来了“这个按钮怎么点不动啊？”的困扰。
+其实Google的reCAPTCHA验证是有国内版的，不过许多国外网站只考虑了国外用户的使用（连个简体中文都没有[明指Mcpedl]你还奢望国内版人机验证？），以下介绍一种比较好用的通过方法。
+使用Gooreplacer重定向的方法 第一步 下载并安装插件 Edge：https://microsoftedge.microsoft.com/addons/detail/gooreplacer/cidbonnpjopamnhfjdgfcmjmlmehjnej
+Firefox：https://addons.mozilla.org/firefox/downloads/file/3586402/gooreplacer-3.11.2-fx.xpi
+⚠️提示  手机Firefox安装非精选插件需要Firefox nightly和Firefox插件收藏集的支持   Chrome(不推荐，因为打不开)：https://chrome.google.com/webstore/detail/gooreplacer/jnlkjeecojckkigmchmfoigphmgkgbip
+第二步 配置规则 匹配模式：www.google.com/recaptcha 匹配类型：通配符 目标地址：recaptcha.net/recaptcha匹配模式  第三步 享受 这种方法支持绝大多数网站，但是并不是灵丹妙药。如果有CSP⁽¹⁾，可能会无法使用。</div><div class="post-footer">
+    <a href="/posts/pass-recaptcha-cn/">阅读全文</a></div>
+</article></div></main><footer class="footer">
     <div class="footer-container"><div class="footer-line powered">由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer" title="Hugo 0.91.2">Hugo</a> 强力驱动 | 主题 - <a href="https://github.com/Lruihao/FixIt" target="_blank" rel="external nofollow noopener noreffer" title="FixIt 0.2.13"><img class="fixit-icon" src="/images/fixit.svg" alt="FixIt logo" /> FixIt</a>
         </div></div>
   </footer></div>

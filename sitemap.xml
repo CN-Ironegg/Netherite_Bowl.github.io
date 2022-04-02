@@ -2,7 +2,9 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
+      <loc>https://CN-Ironegg.github.io/</loc><lastmod>2022-04-02T08:47:11&#43;08:00</lastmod></url><url>
+      <loc>https://CN-Ironegg.github.io/posts/</loc><lastmod>2022-04-02T08:47:11&#43;08:00</lastmod></url><url>
+      <loc>https://CN-Ironegg.github.io/posts/pass-recaptcha-cn/</loc><lastmod>2022-04-02T08:47:11&#43;08:00</lastmod></url><url>
       <loc>https://CN-Ironegg.github.io/about/</loc><lastmod>2020-03-19T12:41:32&#43;08:00</lastmod></url><url>
       <loc>https://CN-Ironegg.github.io/categories/</loc></url><url>
-      <loc>https://CN-Ironegg.github.io/</loc></url><url>
       <loc>https://CN-Ironegg.github.io/tags/</loc></url></urlset>
