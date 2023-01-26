@@ -17,5 +17,12 @@
 Firefox：https://addons.mozilla.org/firefox/downloads/file/3586402/gooreplacer-3.11.2-fx.xpi
 ⚠️提示  手机Firefox安装非精选插件需要Firefox nightly和Firefox插件收藏集的支持   Chrome(不推荐，因为打不开)：https://chrome.google.com/webstore/detail/gooreplacer/jnlkjeecojckkigmchmfoigphmgkgbip
 第二步 配置规则 匹配模式：www.google.com/recaptcha 匹配类型：通配符 目标地址：recaptcha.net/recaptcha匹配模式  第三步 享受 这种方法支持绝大多数网站，但是并不是灵丹妙药。如果有CSP⁽¹⁾，可能会无法使用。]]></description>
+</item><item>
+  <title></title>
+  <link>https://CN-Ironegg.github.io/posts/test/</link>
+  <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+  <author>作者</author>
+  <guid>https://CN-Ironegg.github.io/posts/test/</guid>
+  <description><![CDATA[测试]]></description>
 </item></channel>
 </rss>
